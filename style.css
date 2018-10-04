@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .content__pong {
+    padding: 1rem;
+    width: 100%;
+    height: auto;
+  }
